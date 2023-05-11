@@ -16,5 +16,6 @@ begin
    else if(s==1&&r==1)
     q<=1'bx;
   end
+   assign qbar=~q;
 end
 endmodule
