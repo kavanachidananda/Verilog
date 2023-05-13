@@ -1,4 +1,4 @@
-module d_tb();
+module d_tb;
 reg D;
 reg clk;
 wire Q;
