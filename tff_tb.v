@@ -21,7 +21,7 @@ module t_flip_tb;
 		t = 0;
 		clk = 1;
 		reset = 1;
-		#10;
+		#100;
 		t = 1;
 		reset = 0;
 		#10;
